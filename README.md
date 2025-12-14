@@ -1,7 +1,7 @@
 # Exploratory Data Analysis (EDA) on Retail Sales Data
 
 ## Project Overview
-This project performs exploratory data analysis on a retail sales dataset to identify trends, patterns, and insights that support business decision-making.
+This project performs exploratory data analysis on a retail sales dataset to identify trends, patterns, and insights that support business decision making.
 
 ## Objectives
 - Clean and prepare the dataset
