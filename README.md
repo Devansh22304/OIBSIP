@@ -34,8 +34,5 @@ This project performs exploratory data analysis on a retail sales dataset to ide
 - Optimize inventory for top selling products
 - Plan promotions during peak sales periods
 
-## Demo Video
-Project walkthrough video will be added soon.
-
 ## Author
 Devansh Chourasia
